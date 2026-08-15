@@ -1,0 +1,10 @@
+/shelf/
+/workspace.xml
+
+/httpRequests/
+
+.idea/
+__pycache__/
+*.pyc
+venv/
+.venv/
